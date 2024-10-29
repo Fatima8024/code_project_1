@@ -1,1 +1,1 @@
-print ("This is my python project on github")
+print ("This is my first python project on GitHub")
