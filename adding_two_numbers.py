@@ -1,3 +1,6 @@
+#Calculate the sum of the two numbers. Print the total sum with an appropriate message.
+
+
 num1 = int(input("enter first number: "))
 num2 = int(input("enter second number: "))
 total_sum = num1+num2
